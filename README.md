@@ -16,7 +16,8 @@
   - [TP1.2](https://github.com/Properati-Analysis/TP1/blob/main/TP1.2.ipynb)
   - [TP1.3](https://github.com/Properati-Analysis/TP1/blob/main/TP1.3.ipynb)
   - [TP1.4](https://github.com/Properati-Analysis/TP1/blob/main/TP1.4.ipynb)
-  - [TP1.5]()
+  - [TP1.5](https://github.com/Properati-Analysis/TP1/blob/main/TP1.5.ipynb)
+  - [TP1.5.1](https://github.com/Properati-Analysis/TP1/blob/main/TP1.5.1.ipynb)
     
   **Notas:**
   
